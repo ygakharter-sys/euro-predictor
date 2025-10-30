@@ -1,0 +1,1 @@
+print('Euro Predictor initialized')
